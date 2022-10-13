@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @MsWangare
-- 👀 I’m interested in Javascript frameworks
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me
-
+- 👋 Hi, I’m Wangare,a Software engineering student at ALX School.
+- 👀 I’m  particularly interested in Javascript frameworks.
+- 🌱 I’m currently studying low-level programming, high-level programming, system engineering and devops, and web stack programming (Front-end & Back-end) using a methodology based on peer-learning and projects.
+- 💞️ I'm curious, adaptable, a fast learner and I love developing my skills.
+- 📫 
 <!---
-MsWangare/MsWangare is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
 --->
